@@ -8,3 +8,5 @@ make
 make install
 echo "All done, now set environment variable by doing"
 echo "export PATH=\$HOME/Software/bin:\$PATH"
+echo "Or more persistently do:"
+echo "echo 'export PATH=\$HOME/Software/bin:\$PATH' >> \$HOME/.bashrc"
